@@ -19,7 +19,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=donruethai&show_icons=true&locale=en&layout=compact" alt="donruethai" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=donruethai&show_icons=true&locale=en" alt="donruethai" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=donruethai&show_icons=true&locale=en" alt="donruethai" /></p>
 
 
 
