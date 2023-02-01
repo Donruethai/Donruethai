@@ -3,11 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=donruethai&label=Profile%20views&color=0e75b6&style=flat" alt="donruethai" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=donruethai" alt="donruethai" /></a> </p>
 
-- 🔭 I’m currently working on **React Project**
+- ✨ I’m interested in Web Development
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning React Advanced, TypeScript
 
 - 📫 How to reach me **donruethai@hotmail.com**
 
@@ -28,26 +27,6 @@
 
 
 
-
-👋 Hi, I’m @Donna
-✨ I’m interested in Web Development
-🌱 I’m currently learning React Advanced, TypeScript
-
-<h3 align="left">📫 How to reach me ...</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/donruethai-wanchatchankadee-48810716a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tony-sn" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-
-<a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png" alt="html5" width="40" height="40"/> </a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
- 
-</p>
 
 
 
