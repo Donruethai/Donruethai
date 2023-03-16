@@ -12,6 +12,10 @@
   <a href="https://donruethai.github.io/My-Portfolio/" target="_blank" rel="noreferrer">My Portfolio</a>
 </h1>
 
+<h2 align="center">
+  <a href="https://www.buymeacoffee.com/donruethai" target="_blank" rel="noreferrer">Buy Me A Coffee ☕️ </a>   
+</h2>
+
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  
