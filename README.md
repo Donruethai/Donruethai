@@ -13,7 +13,7 @@
 </h1>
 
 <h2 align="center">
-  <a href="https://www.buymeacoffee.com/donruethai" target="_blank" rel="noreferrer">Buy Me A Coffee ☕️ </a>   
+  <a href="https://www.buymeacoffee.com/webdevlifestyle" target="_blank" rel="noreferrer">Buy Me A Coffee ☕️ </a>   
 </h2>
 
 <h3 align="center">Languages and Tools:</h3>
