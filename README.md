@@ -9,8 +9,8 @@
 <h3 align="center">Connect with me: <a href="https://linkedin.com/in/donruethai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="donruethai" height="30" width="40" /></a></h3> 
 
 <h1 align="center">
-  <a href="https://donruethai.com/" target="_blank" rel="noreferrer">My Portfolio</a>
-</h1>
+  <a href="https://donruethai.github.io/My-Portfolio/" target="_blank" rel="noreferrer">My Portfolio</a>
+</h1>   
 
 <h2 align="center">
   <a href="https://www.buymeacoffee.com/webdevlifestyle" target="_blank" rel="noreferrer">Buy Me A Coffee ☕️ </a>   
